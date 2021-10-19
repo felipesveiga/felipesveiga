@@ -1,4 +1,4 @@
-Hello, everyone!
+Dear community,
 
 My name is Felipe Veiga. I am a 19 years-old Brazilian with an immense affection for Data Science. 
 
