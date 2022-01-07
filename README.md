@@ -1,15 +1,19 @@
 # Hello, World! 
 
+👨‍💻 Data Science Student
+
+
 <div>
   <a href = 'https://github.com/felipesveiga'>
   <img src = "https://github-readme-stats.vercel.app/api?username=felipesveiga&show_icons=true&theme=react">
   <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=felipesveiga&layout=compact&theme=react'
   
 </div>
-
+# CORRIGIR LOGO PYTHON
 <div> 
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg", height="80px", width="50px", align="center">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="80px" width="130px">
+  <img src = https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg, height="65px", width="50px", align="center">
+    <img src = "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" height = "65px" width="50px">
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="65px" width="130px align="center">
     </div>
 
     
