@@ -1,5 +1,6 @@
-Dear community,
-
-My name is Felipe Veiga. I am a 19 years-old Brazilian with an immense affection for Data Science. 
-
-Everyday, I spend hours studying Python and Oracle SQL. I aspire being a data scientist in the future!
+<div>
+  
+  <img src = 'https://github-readme-stats.vercel.app/api?username=felipesveiga&show_icons=true&theme=radical'>
+  
+  </div>
+  
