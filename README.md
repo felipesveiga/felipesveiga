@@ -9,7 +9,7 @@
 
 <div> 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg", height="80px", width="50px", align="center">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="100px" width="130px">
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="80px" width="130px">
     </div>
 
     
