@@ -13,7 +13,11 @@
 ## My Programming Tools
 
 <div> 
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="80px", width="135px", align="center"> <img src = "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" height = "80px" width="50px"><img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="65px" width="130px align="center"> </div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="80px", width="135px", align="center"> 
+ <img src = "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" height = "80px" width="50px">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="65px" width="130px" align="center"> 
+ <img src = "https://symbols.getvecta.com/stencil_74/35_apache-spark.7899e844c8.svg" height="65px" width="130px" align="center"> 
+</div>
 
 ## Check out my Social Media
 <div>
