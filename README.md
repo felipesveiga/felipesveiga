@@ -14,7 +14,7 @@
 
 <div> 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="80px", width="135px", align="center"> 
- <img src = "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" height = "80px" width="55px">
+ <img src = "https://cdn.worldvectorlogo.com/logos/power-bi.svg" height = "80px" width="55px">
  <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="65px" width="130px" > 
  <img src = "https://symbols.getvecta.com/stencil_74/36_apache-spark-icon.79831ad2ea.svg" height="80px" width="100px" align="top"> 
 </div>
