@@ -1,7 +1,7 @@
 # Hello, World! 
 
 <div> 
-<p>👨‍💻 Data Science Student</p>
+<p>👨‍💻 Data Science Intern @Itaú Unibanco</p>
 <p>🇧🇷 São Paulo, SP</p>
  </div>
 
